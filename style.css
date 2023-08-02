@@ -20,16 +20,16 @@ body {
     justify-content: center;
 }
 
-.titulo-sep{
+.titulo-sep {
     color: rgb(17, 17, 17);
     margin-top: 60px;
     margin-bottom: 10px;
     display: flex;
+    justify-content: center;
     align-items: center;
-    white-space: nowrap;
     text-align: center;
-    
-}
+    white-space: nowrap;
+  }
 
 header img {
     height: 124px;
